@@ -17,7 +17,9 @@ So let's start digging a litle bit. Imagine you open your today's AI&ML journal 
 * What did they do to take the data.
 * Which data did they use.
 * How did they do to build the model. Which type of model is?
+* Do you know any other project that applies the same techniques? Could you use something for another use case?
 * Do you find any ethical implications? Collateral effects?
+* Do you know any news related?
 
 So you need to look for more information. Maybe the paper the scientists published, other articles, some information about the techniques, ...
 
