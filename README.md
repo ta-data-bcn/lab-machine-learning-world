@@ -33,5 +33,5 @@ Let's start! You will be assigned to a new and a day when you will have 5 minute
 7. [Tay Microsoft racist AI](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 8. [Spotify recommendation model](https://medium.com/@terry.foley555/spotify-algorithms-5f38b6b6db58)
 9. [Malaria spot](https://www.sciencedaily.com/releases/2016/04/160425095546.htm)
-10.[Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00)
+10. [Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00)
 11. [LAPD crime algorithm](https://www.wired.com/story/los-angeles-police-department-predictive-policing/)
