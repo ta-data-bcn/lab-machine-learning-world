@@ -39,3 +39,4 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 11. [LAPD crime algorithm](https://www.wired.com/story/los-angeles-police-department-predictive-policing/)
 12. [Traffic AI](https://motherboard.vice.com/en_us/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic)
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
+14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
