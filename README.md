@@ -7,7 +7,7 @@ The objectives of this lab are:
 * Get to introduced into this world through the latest most important news we have had in the last years.
 * Guide you to do a deeper research to understand them better.
 
-So you will be asked to read a new and then share it with your partners. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific better.
+So you will be asked to read a piece of news and then share it with your partners. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific better.
 
 ## How we will do it?
 
@@ -23,7 +23,7 @@ So let's start digging a litle bit. Imagine you open your today's AI&ML journal 
 
 So you need to look for more information. Maybe the paper the scientists published, other articles, some information about the techniques, ...
 
-Let's start! You will be assigned to a new and a day when you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
+Let's start! You will be assigned to an article and a day when you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
 
 ## News 
 1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
