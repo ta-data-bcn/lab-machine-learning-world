@@ -1,5 +1,8 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+# Slides presentation
+https://slides.com/josepforadada/what-about-a-4-3-billion-pile-of-shirts-dresses-and-accessories
+
 # Lab | Machine Learning & AI World
 Machine Learning now is one of the trending topics if you talk aboyt technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
 
