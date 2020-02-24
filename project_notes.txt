@@ -1,0 +1,32 @@
+# if it is so important as the title says (is it really a big step?) or you think it is more important than the title suggests.
+Recreate images from inside brain
+    - opens a door into translating brain activity into images
+    - translate dreams into images
+    - crimes
+
+
+# Which part of ML or AI is used and how is it related to ML or AI.
+combined DNN (Deep Neural Network) feature decoding from  fMRI (functional magnetic resonance imagin) signals and the methods for image generation recently developed in the machine learning field
+
+DGN (deep generator network) as a prior to constrain reconstructed images to be similar to natural images.
+
+Cafee Model
+    Deep Learning Frameworks by BAIR (https://bair.berkeley.edu/) >> GitHub (https://github.com/BVLC/caffe/wiki/Model-Zoo)
+
+VGG19 model
+    VGG is a Convolutional Neural Network architcture, It was proposed by Karen Simonyan and Andrew Zisserman of Oxford Robotics Institute in the the year 2014. It was submitted to Large Scale Visual Recognition Challenge 2014 (ILSVRC2014) and The model achieves 92.7% top-5 test accuracy in ImageNet. ImageNet is one the on the largest data-set available. It has 14 million hand-annotated images of what is in the picture.
+
+
+# How did they do to build the model. Which type of model is?
+Deep Neural Network (Artificial Neural Network - ANN)
+    - computing systems vaguely inspired by the biological neural networks that constitute animal brains. Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules.
+
+
+# Do you find any ethical implications? Collateral effects?
+access to personal thoughts.
+functional magnetic resonance imaging >> not good in long expositions
+
+
+# Do you know any news related?
+reconstruction with low-level image bases (Miyawaki et al., 2008; Wen et al., 2016) 
+matching to exemplars (Naselaris et al., 2009; Nishimoto et al., 2011)
