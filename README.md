@@ -41,3 +41,7 @@ Let's start! You will be assigned to an article and you will have 5 minutes to s
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [The way we walk](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+
+
+## Result
+https://docs.google.com/presentation/d/1TzvVwzrQc4UNfHlR5p3SgD7ztMgSFL6fmya1AYOhOXs/edit?usp=sharing
