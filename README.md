@@ -9,6 +9,9 @@ The objectives of this lab are:
 
 So you will be asked to read a piece of news and then share it with your partners. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into a specific one thoroughly.
 
+## My presentation
+In the following link you will find my presentation titled [Did Donald Trump used AI to Win the Election?](https://docs.google.com/presentation/d/1MwzBuL5no0mV8Xx6H0KK0D_f880sWWYg4cQZvGG4A-w/edit?usp=sharing)
+
 ## How we will do it?
 
 So let's start digging a litle bit. Imagine you open your today's AI&ML journal and you see a very interesting new. You read it, but that is not enough. You want to understand:
