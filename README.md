@@ -41,3 +41,19 @@ Let's start! You will be assigned to an article and you will have 5 minutes to s
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [The way we walk](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+
+
+## Francesco's Presentation
+[Slides on Retail AI](https://docs.google.com/presentation/d/1xtsXCt1eeB3U9dJmJKgbXk90M-RLlfwp76RfzQcR0-U/edit?usp=sharing)
+
+## Answers to questions
+* If it is so important as the title says (is it really a big step?) or you think it is more important than the title suggests.
+I think it's a big step in terms of product and trends analysis. Its the evidence that companies will become more and more efficient at their business processes using AI
+* Which part of ML or AI is used and how is it related to ML or AI.
+They used it to spot trends over the internet and to manage their inventories. They also combine their data with RFID so they can predict their demand and adjust their supply more efficiently. 
+* How/Where did they get the data.
+In store (RFID) or online.
+* Do you know any other project that applies the same techniques? Could you use something for another use case?
+I found this [PAPER])https://research.fb.com/publications/from-paris-to-berlin-discovering-fashion-style-influences-around-the-world/) of how Facebook uses ML on image recognition and classification to discover trends and relations between the principal cities in the world.
+* Do you find any ethical implications? Collateral effects?
+I don't find ethical implications in the optimization of business rather more on their impact over the environment and economy of third world countries. Boostin up production could have serious impact over the environment, but then again by making their logistics more efficient they can distribute products with less environmental impact.
