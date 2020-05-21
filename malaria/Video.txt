@@ -1,0 +1,11 @@
+Idea: 
+- People plays a game where they learn the patrons that defines malaria blood samples.
+- People analyze, knowing nothing at the beginning, how to detect malaria.
+- Machine learning imitates the people's chooses
+
+Project website
+https://malariaspot.org/es/malariaspot-5/
+
+The project evolved to this:
+https://spotwarriors.org/
+https://twitter.com/MalariaSpot
